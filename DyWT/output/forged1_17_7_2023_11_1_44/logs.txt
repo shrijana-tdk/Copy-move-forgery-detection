@@ -1,0 +1,14 @@
+length of original keypoint=465
+LEN of kp in g2nn=106
+table=256
+table1=256
+table2=256
+cluster1.size=12
+cluster2.size=17
+matches found in clusters=28
+cluster1.size=17
+cluster2.size=22
+matches found in clusters=40
+cluster1.size=22
+cluster2.size=17
+matches found in clusters=18
